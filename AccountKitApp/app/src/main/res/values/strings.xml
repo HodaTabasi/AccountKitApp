@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AccountKitApp</string>
+    <string name="FACEBOOK_APP_ID">139938646593627</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">7e92a1c53d4a264ade61a076d7a452c0</string>
+    <string name="permissions_get_accounts_message">
+        Grant permission to read your email address from your device to pre-fill.
+    </string>
+    <string name="permissions_get_accounts_title">Read Email Address</string>
+    <string name="permissions_read_phone_state_message">
+        Grant permission to read your phone number from your device to pre-fill.
+    </string>
+    <string name="permissions_read_phone_state_title">Read Phone Number</string>
+    <string name="permissions_receive_sms_message">
+        Grant permission to read your SMS code from your device to pre-fill.
+    </string>
+    <string name="permissions_receive_sms_title">Read SMS Code</string>
+</resources>

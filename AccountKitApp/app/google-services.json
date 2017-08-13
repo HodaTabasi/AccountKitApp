@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "160184783119",
+    "firebase_url": "https://first-e08ee.firebaseio.com",
+    "project_id": "first-e08ee",
+    "storage_bucket": "first-e08ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160184783119:android:9912f1bef1d25c8b",
+        "android_client_info": {
+          "package_name": "com.example.hudamohammed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160184783119-46v1378r1cq6hnj4jcf8ipa1ovdmmrb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvAATJP9-WHaoHNVOuOp3WMHR9Nf3VbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160184783119:android:d02a7cfb736fe84d",
+        "android_client_info": {
+          "package_name": "com.example.msi.accountkitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160184783119-46v1378r1cq6hnj4jcf8ipa1ovdmmrb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvAATJP9-WHaoHNVOuOp3WMHR9Nf3VbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
